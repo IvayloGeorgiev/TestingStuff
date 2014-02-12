@@ -11,6 +11,7 @@ namespace TestingShitIsFun
         static void Main(string[] args)
         {
             Console.WriteLine("Hello git!");
+            Console.WriteLine("Good day git!");
         }
     }
 }
